@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "晴れるなら",
   "base_artist": "Guiano",
-  "createdAt": "2026-04-05T10:01:49.474290Z",
+  "createdAt": "2026-04-05T13:51:58.790909Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "Guiano",
       "has_synced": false,
       "path": "select/pl_01_晴れるなら_Guiano.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "晴れるなら",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/localdb_01_晴れるなら_Guiano.txt",
+      "repo_name": "vfNUrU-8gZI"
     }
   ]
 }
